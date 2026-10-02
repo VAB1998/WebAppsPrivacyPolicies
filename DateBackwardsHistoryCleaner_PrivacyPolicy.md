@@ -12,4 +12,4 @@
 
 **Permissions.** The `history` and `downloads` permissions are used only to estimate and remove the record types you select. `storage` saves your settings and logs locally, and `alarms` runs automatic purges you configure.
 
-**Contact.** Before publishing, replace this sentence with a monitored support email address or another reliable privacy contact: `[Add privacy contact]`.
+**Contact.** Before publishing, replace this sentence with a monitored support email address or another reliable privacy contact: `vincy2906@gmail.com`.
